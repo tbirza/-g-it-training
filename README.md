@@ -1,2 +1,2 @@
 # -g-it-training
-python programma's tijdens traing
+python programma's tijdens training
